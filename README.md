@@ -1,4 +1,7 @@
 # 👋 Hi there!
+
+[![Website](https://img.shields.io/badge/website-danwinter.co.uk-blue)](https://danwinter.co.uk)
+
 I'm Daniel Winter, a Computer Science student.
 
 # 🎓 Education

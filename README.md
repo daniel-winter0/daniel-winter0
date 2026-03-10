@@ -15,4 +15,4 @@ I'm Daniel Winter, a Computer Science student.
 
 # 💻 Projects
 - **[Portfolio](https://www.danwinter.co.uk/)**<br>
-I created this portfolio using HTML, CSS and JavaScript. The theme I went for was a terminal where you type commands and get responses. One important command I created is `website` which allows you to view it as an actual web page rather that interactive terminal.
+I created this portfolio using HTML, CSS and JavaScript. The theme I went for was a minimalistic design, including lots of important features such as skills, projects etc. I created this using Bootstrap 5, and some basic additional CSS and JavaScript.

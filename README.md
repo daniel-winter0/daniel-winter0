@@ -19,3 +19,6 @@ I created this portfolio using HTML, CSS and JavaScript. The theme I went for wa
 ---
 - **[Cipher Representations](https://www.github.com/daniel-winter0/cipher-representations/)**<br>
 I created this Python project which was some ciphers that I learnt at University. The ciphers I included are Caesar, Viginere and Affine. I did this using object-oriented programming techniques, by adding each cipher to a class.
+---
+- **[Python Stack](https://www.github.com/daniel-winter0/python-stack/)**<br>
+I implemented a Stack class in Python, which works similarly to how they do in low-level languages.
